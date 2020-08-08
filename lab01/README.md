@@ -9,7 +9,7 @@
   ![imagem1](imagens/googleplay-projeto.png)
 <br>
 ### Arquivo do Projeto
-   ![projeto1](orange/googleplaystore.ows)
+   [Projeto - Google PlayStore](orange/googleplaystore.ows)
 <br>
 ### Gráfico(s) de Análise
   ![imagem2](imagens/googleplay-grafico1.png)
@@ -23,7 +23,7 @@
   ![imagem3](imagens/foodmart-is.png)
 <br>
 ### Arquivo do Projeto
-  ![projeto2](orange/foodmart.ows)
+  [Projeto - FoodMart](orange/foodmart.ows)
 <br>
 ## Projeto de Composição de Componentes para Recomendação
   ![diagrama1](imagens/diagrama1.PNG)
