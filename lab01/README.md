@@ -6,7 +6,7 @@
 
 ## Projeto Orange / Análise de Dados do Google PlayStore
 ### Imagem do Projeto
-  ![imagem1](orange/googleplay-projeto.png)
+  ![imagem1](imagens/googleplay-projeto.png)
 <br>
 ### Arquivo do Projeto
    ![projeto1](orange/googleplaystore.ows)
