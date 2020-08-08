@@ -12,9 +12,9 @@
    ![projeto1](orange/googleplaystore.ows)
 <br>
 ### Gráfico(s) de Análise
-  ![imagem2](imagens/googleplay-grafico1)
-  ![imagem2](imagens/googleplay-grafico2)
-  ![imagem2](imagens/googleplay-grafico3)
+  ![imagem2](imagens/googleplay-grafico1.png)
+  ![imagem2](imagens/googleplay-grafico2.png)
+  ![imagem2](imagens/googleplay-grafico3.png)
 <br>
 ## Projeto Orange / Regras de Associação para Foodmart
 ### Imagem do Projeto
