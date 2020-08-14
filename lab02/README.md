@@ -1,6 +1,6 @@
 
 ## Tarefa sobre catálogo de componentes
-
+[Notebook](notebook/components-01-catalog.ipynb)
 
 ## Tarefa Web Components 1
 ```
