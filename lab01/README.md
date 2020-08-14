@@ -26,11 +26,11 @@
   [Projeto - FoodMart](orange/foodmart.ows)
 <br>
 ## Projeto de Composição de Componentes para Recomendação
-  ![diagrama1](imagens/diagrama1.PNG)
+  ![diagrama1](imagens/diagrama1.png)
 <br>  
 ## Projeto de Composição de Componentes para Pedido
 ### Diagrama de Componentes
-  ![diagrama2](imagens/diagrama2.PNG)
+  ![diagrama2](imagens/diagrama2.png)
 <br>
 ### Diagrama de Interfaces
-  ![diagrama3](imagens/diagrama3.PNG)
+  ![diagrama3](imagens/diagrama3.png)
