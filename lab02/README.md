@@ -3,7 +3,7 @@
 [Notebook](notebook/components-01-catalog.ipynb)
 
 ## Tarefa Web Components 1
-```
+```sh
 <dcc-trigger label="Mundo" action="noticia/mundo/politica" value="mundo politica"></dcc-trigger>
 <dcc-trigger label="Brasil P" action="noticia/brasil/politica" value="brasil politica"/></dcc-trigger>
 <dcc-trigger label="Brasil E" action="noticia/brasil/esporte" value="brasil esporte"/></dcc-trigger>
@@ -23,7 +23,7 @@
 ```
 
 ## Tarefa Web Components 2
-```
+```sh
 <dcc-trigger label="News" action="next/rss">
 </dcc-trigger>
 
