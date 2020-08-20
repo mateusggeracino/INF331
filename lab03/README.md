@@ -5,9 +5,17 @@
 <br><br>
 
 ### Tarefa 1
+<br>
   ![imagem1](imagens/tarefa1.png)
 <br>
 
 ### Tarefa 2
+<br>
   ![imagem2](imagens/tarefa2.png)
+<br>
+
+### Tarefa 3
+<br>
+
+### Tarefa 4
 <br>
