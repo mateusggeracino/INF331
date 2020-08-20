@@ -11,5 +11,5 @@
 <br>
 
 ### Tarefa 2
-  ![imagem1](imagens/tarefa2.png)
+  ![imagem2](imagens/tarefa2.png)
 <br>
