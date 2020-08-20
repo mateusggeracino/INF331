@@ -4,8 +4,6 @@
    >Mateus Gonçalves Geracino
 <br><br>
 
-
-<br>
 ### Tarefa 1
   ![imagem1](imagens/tarefa1.png)
 <br>
