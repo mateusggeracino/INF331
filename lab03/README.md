@@ -33,7 +33,7 @@ Produto - Efetivação
 <br>
  
  
-#### Produto - Diagramas
+#### Diagramas
  ![imagem3](imagens/diagrama_global.jpg)
  ![imagem3](imagens/diagrama_blocos.jpg)
 <br>
