@@ -13,18 +13,24 @@
 <br>
 
 ### Tarefa 3
-#### Inicial
+### Inicial
 <img src="imagens/inicial.jpg" width="200">
-#### Produto - Aveia
+<br>
+Produto - Aveia
 <img src="imagens/aveia.jpg" width="200">
-#### Produto - Ninho
+<br>
+Produto - Ninho
 <img src="imagens/ninho.jpg" width="200">
-#### Produto - Arroz
+<br>
+Produto - Arroz
 <img src="imagens/arroz.jpg" width="200">
-#### Produto - Validação de quantidade
+<br>
+Produto - Validação de quantidade
 <img src="imagens/validacao.jpg" width="200">
-#### Produto - Efetivação
+<br>
+Produto - Efetivação
 <img src="imagens/compra.jpg" width="200">
+<br>
  
  
 #### Produto - Diagramas
@@ -32,5 +38,7 @@
  ![imagem3](imagens/diagrama_blocos.jpg)
 <br>
 
+* [Aplicativo do MIT App Inventor](app/appinventor.aia)<br>
+
 ### Tarefa 4
-<br>
+Equipe 6 - https://github.com/inf331equipe6
