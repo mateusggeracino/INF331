@@ -14,17 +14,17 @@
 
 ### Tarefa 3
 #### Inicial
- ![](imagens/inicial.jpg =100x100)
+<img src="imagens/inicial.jpg" width="200">
 #### Produto - Aveia
- ![](imagens/aveia.jpg =100x100)
+<img src="imagens/aveia.jpg" width="200">
 #### Produto - Ninho
- ![](imagens/ninho.jpg =100x100)
+<img src="imagens/ninho.jpg" width="200">
 #### Produto - Arroz
- ![](imagens/arroz.jpg =100x100)
+<img src="imagens/arroz.jpg" width="200">
 #### Produto - Validação de quantidade
- ![](imagens/validacao.jpg =100x100)
+<img src="imagens/validacao.jpg" width="200">
 #### Produto - Efetivação
- ![](imagens/compra.jpg =100x100)
+<img src="imagens/compra.jpg" width="200">
  
  
 #### Produto - Diagramas
