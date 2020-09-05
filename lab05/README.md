@@ -7,7 +7,7 @@
 
 ## Tarefa 1
 
-![imagem](images/tarefa1.png)
+![imagem](imagens/tarefa1.png)
 
 ## Tarefa 2
 Link codepen: [React 03 - Componente Barra](https://codepen.io/mateusggeracino/pen/ZEWaMBK)
